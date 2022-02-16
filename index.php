@@ -47,8 +47,8 @@
                                 echo "<thead>";
                                     echo "<tr>";
                                         echo "<th>Party</th>";
-                                        echo "<th>president</th>";
-                                        echo "<th>symbol</th>";
+                                        echo "<th>President</th>";
+                                        echo "<th>Symbol</th>";
                                         echo "<th>Action</th>";
                                     echo "</tr>";
                                 echo "</thead>";
